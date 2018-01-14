@@ -8,13 +8,13 @@ class Dog
   #   @name
   # end
 
-  def breed(breed)
-    @breed = puts dog_breed
-  end
-
-  def breed
-    @breed
-  end
+  # def breed(breed)
+  #   @breed = puts dog_breed
+  # end
+  #
+  # def breed
+  #   @breed
+  # end
 
   def name=(new_name)
     @name = new_name
